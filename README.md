@@ -37,3 +37,8 @@ The deadline for submissions is Saturday, 29th June - 11:59pm WAT (GMT +1). Late
 
 Good luck!
 
+
+-------------------------------------------------------------
+
+![image](https://github.com/tobiillz/HNG11-DEVOPS-TASK-0/assets/40072971/25562ab9-b368-4f98-8918-14d3917f280b)
+
